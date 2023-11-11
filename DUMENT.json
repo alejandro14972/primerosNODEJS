@@ -1,0 +1,7 @@
+{
+    "name":"Blog",
+     "description":"Blog personal",
+     "category";"informática",
+     "langs": ["php", "html", "js"],
+     "year":2013
+   }

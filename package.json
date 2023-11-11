@@ -1,0 +1,21 @@
+{
+  "name": "api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "api rest master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Alex",
+  "license": "MIT",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
